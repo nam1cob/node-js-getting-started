@@ -1,8 +1,5 @@
 {
-  "authsrv" : {
-    "apps" : [
-      "KNT489GQP6.com.fiberlink.maas360.sso",
-      "KNT489GQP6.com.fiberlink.maas360.sso.extension"
-    ]
+  "webcredentials" : {
+    "apps" : [	"KNT489GQP6.com.fiberlink.maas360.sso" ]
   }
 }
